@@ -1,0 +1,14 @@
+Header {
+    color: white;
+    background: rgb(77, 142, 204);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 800px) {
+    .Header {
+    padding: 10px 20px;
+  }
+}
